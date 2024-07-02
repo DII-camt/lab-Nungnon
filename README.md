@@ -1,7 +1,10 @@
-echo "# lab-Nungnon" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/DII-camt/lab-Nungnon.git
-git push -u origin main
+ID <662110195>
+# วิธีกํารติดตั้ง Git
+---
+-**วิธีกํารติดตั้ง Git บนเครื่อง**-
+
+1. **ดําวน์โหลด Git:** ไปที่ [เว็บไซต์ git-scm.com](https://git-
+scm.com/downloads) และดําวน์โหลด Git ส ําหรับระบบปฏิบัติกําร (Windows,
+
+macOS, Linux)
+2. **ติดตั้ง Git:** ติดตั้ง Git ที่ดําวน์โหลดมําและท ําตํามขั้นตอนกํารติดตั้ง"# lab-Nungnon" 
